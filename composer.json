@@ -1,6 +1,6 @@
 {
-    "name": "adamwathan/laravel-preset",
-    "description": "Adam Wathan's Laravel Frontend Preset",
+    "name": "juhlinus/laravel-preset",
+    "description": "Linus Juhlin's Laravel Frontend Preset (Based on Adam Wathan's)",
     "keywords": ["laravel", "preset"],
     "license": "MIT",
     "require": {
